@@ -1,0 +1,54 @@
+body
+{
+    padding-top: 40px;
+}
+
+.center
+{
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*conteudo*/
+.conteudo
+{
+    height:800px;
+    background: #fcfcfc;
+
+}
+
+
+/* Footer*/
+
+.footer {
+    padding: 30px 0;
+    border-top: 1px solid #e5e5e5;
+    background-color: #f5f5f5;
+
+}
+.footer p {
+    margin-bottom: 0;
+    color: #777;
+}
+.footer-links {
+    margin: 10px 0;
+}
+.footer-links li {
+    display: inline;
+    padding: 0 2px;
+}
+.footer-links li:first-child {
+    padding-left: 0;
+}
+
+.direitos
+{
+    margin-left: 10px;
+}
+
+.voltaTopo
+{
+    margin-right: 10px;
+}
